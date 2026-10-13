@@ -1,0 +1,14 @@
+C:\Users\theod\OneDrive - sluz\IPT1\MensaEingaben\bin\Debug\MensaEingaben.exe.config
+C:\Users\theod\OneDrive - sluz\IPT1\MensaEingaben\bin\Debug\MensaEingaben.exe
+C:\Users\theod\OneDrive - sluz\IPT1\MensaEingaben\bin\Debug\MensaEingaben.pdb
+C:\Users\theod\OneDrive - sluz\IPT1\MensaEingaben\obj\Debug\MensaEingaben.csproj.AssemblyReference.cache
+C:\Users\theod\OneDrive - sluz\IPT1\MensaEingaben\obj\Debug\MensaEingaben.csproj.CoreCompileInputs.cache
+C:\Users\theod\OneDrive - sluz\IPT1\MensaEingaben\obj\Debug\MensaEingaben.exe
+C:\Users\theod\OneDrive - sluz\IPT1\MensaEingaben\obj\Debug\MensaEingaben.pdb
+C:\Users\theod\OneDrive - sluz\IPT1\Modul IPT-1\MensaEingaben\bin\Debug\MensaEingaben.exe.config
+C:\Users\theod\OneDrive - sluz\IPT1\Modul IPT-1\MensaEingaben\bin\Debug\MensaEingaben.exe
+C:\Users\theod\OneDrive - sluz\IPT1\Modul IPT-1\MensaEingaben\bin\Debug\MensaEingaben.pdb
+C:\Users\theod\OneDrive - sluz\IPT1\Modul IPT-1\MensaEingaben\obj\Debug\MensaEingaben.csproj.AssemblyReference.cache
+C:\Users\theod\OneDrive - sluz\IPT1\Modul IPT-1\MensaEingaben\obj\Debug\MensaEingaben.csproj.CoreCompileInputs.cache
+C:\Users\theod\OneDrive - sluz\IPT1\Modul IPT-1\MensaEingaben\obj\Debug\MensaEingaben.exe
+C:\Users\theod\OneDrive - sluz\IPT1\Modul IPT-1\MensaEingaben\obj\Debug\MensaEingaben.pdb
